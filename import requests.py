@@ -16,7 +16,7 @@ def get_ip_info(ip):
         return None
 
 # List of IP addresses to look up
-ip_addresses = ['24.99.24.212']
+ip_addresses = ['Insert your IP here']
 
 # Loop through the list of IP addresses and print out information
 for ip in ip_addresses:
